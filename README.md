@@ -1,6 +1,9 @@
 # flutter_turkcell
 
-Turkcell Flutter 101 Demo App
+This app is developed by me for Turkcell Open-Source Community Event with more than 200 participants at January 2021. 
+
+I had talked about Google's cross-platform application development toolkit #Flutter , shared my experiences and built a demo app.
+
 
 ## Getting Started
 
